@@ -3,6 +3,11 @@
 using namespace std; 
 
 
+"""
+My C++ implementation of the insertion sort algorithm found in Introduction to Algorithms
+Fourth Edition by Thomas H. Cormen
+"""
+
 int main(){
 	int num[6] = {5,2,4,6,1,3};
 	int sorted_nums[6];
